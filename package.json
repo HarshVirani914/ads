@@ -17,9 +17,11 @@
   },
   "dependencies": {
     "@types/node-cron": "^3.0.7",
+    "@types/node-ssh": "^7.0.1",
     "express": "^4.18.2",
     "node-cron": "^3.0.2",
     "node-scp": "^0.0.22",
+    "node-ssh": "^13.1.0",
     "simple-ssh": "^1.1.1"
   }
 }

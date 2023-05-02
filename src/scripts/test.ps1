@@ -2,7 +2,7 @@ $link = $args[0]
 
 $date = Get-Date
 
-$time = $date.AddMinutes(2)
+$time = $date.AddMinutes(1)
 
 $timeString = $time.ToString("HH:mm")
 
